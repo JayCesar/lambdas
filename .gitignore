@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+saida.json
+events/falha*.json
